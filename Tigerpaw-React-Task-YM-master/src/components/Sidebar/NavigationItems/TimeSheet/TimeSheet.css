@@ -1,0 +1,32 @@
+.main-block {
+	height: 82vh;
+	width: (100vw-210px);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container{
+	height: 80%;
+	width: 70%;
+	background-color: rgb(27,27,27);
+	border: 1px solid #ffbb00;
+	border-radius: 20px;
+}
+
+.headings{
+	background-color: black;
+}
+
+.bg-yellow{
+	background-color: #ffbb00;
+	color: black;
+}
+
+.buttons{
+	margin:auto;
+}
+
+button{
+	width: 13vw;
+}

@@ -1,0 +1,14 @@
+.app-container {
+  display: flex;
+  flex-direction: row; 
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.Sidebar {
+  width: 210px;
+}
+
+.content-container {
+  flex: 1;
+}

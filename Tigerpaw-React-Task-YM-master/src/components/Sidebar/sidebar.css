@@ -1,0 +1,27 @@
+.grey-color{
+    background-color: var(--secondary-color);
+}
+
+.text-yellow{
+    color: var(--primary-color);
+}
+
+.active {
+    border: 1px solid var(--white-color); /* White border */
+    border-radius: 7px;
+    background-color: transparent !important;
+    color: var(--primary-color) !important; /* Yellow text color */
+}
+  
+a:hover{
+    color: var(--white-color);   /* white color when hovered*/
+    text-decoration: none;
+}
+
+.sidebar{
+    height: 82vh;
+}
+
+li{
+    padding: 5px;
+}
